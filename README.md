@@ -13,26 +13,26 @@ View Transactions: See a list of your money records in a clean table.
 
 * Add New Transaction: Click the Add button to create a new transaction. You can choose if it is an income (+) or an expense (-).
 
-# Technologies Used
+## Technologies Used
 * HTML: For the structure of the page.
 
 * CSS: For the design, colors, and layout.
 
 * JavaScript: To make the buttons work, calculate the math, and get data from the API.
 
-# File Structure
+## File Structure
 * index.html: The main web page file.
 
 * style.css: The design file.
 
 * script.js: The logic and math file.
 
-# How to Setup and Run
-* Using VS Code
-Open the project folder in VS Code.
+## How to Setup and Run
+### Using VS Code
+* Open the project folder in VS Code.
 
-Go to the Extensions tab and install Live Server.
+* Go to the Extensions tab and install Live Server.
 
-Right-click on the index.html file and click Open with Live Server.
+* Right-click on the index.html file and click Open with Live Server.
 
-Your web browser will open the dashboard.
+* Your web browser will open the dashboard.
